@@ -1,7 +1,7 @@
 cff-version: 1.2.0
-message: "Please cite the title, authors, version, and fixed GitHub release used in your study."
+message: "Please cite this parameter table when using RIETS."
+title: "Regional Integrated Energy Test System (RIETS): System Parameters"
 type: dataset
-title: "A Geospatially Constrained Benchmark for Joint Construction of Regional Integrated Energy Networks"
 authors:
   - family-names: Li
     given-names: Lingtao
@@ -9,12 +9,6 @@ authors:
     given-names: Yue
   - family-names: Guo
     given-names: Qinglai
-version: 1.0.0
-repository-code: "https://github.com/lltscu/regional-energy-benchmark"
+date-released: 2026-10-16
 url: "https://github.com/lltscu/regional-energy-benchmark"
-license: "MIT AND CC-BY-4.0 AND ODbL-1.0"
-keywords:
-  - regional integrated energy systems
-  - geographic information systems
-  - network construction
-  - test systems
+license: CC-BY-4.0

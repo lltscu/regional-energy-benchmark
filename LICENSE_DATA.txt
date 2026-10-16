@@ -1,13 +1,4 @@
-原创研究参数、说明和计算结果采用 Creative Commons Attribution 4.0 International。
-许可全文：https://creativecommons.org/licenses/by/4.0/legalcode
+RIETS model parameters and documentation: Creative Commons Attribution 4.0 International.
+https://creativecommons.org/licenses/by/4.0/legalcode
 
-第三方数据及其派生数据库分别保留原许可：
-1. OpenStreetMap：ODbL 1.0，© OpenStreetMap contributors。
-   https://www.openstreetmap.org/copyright
-2. GHSL：CC BY 4.0。保留对应产品出处与引用。
-   https://human-settlement.emergency.copernicus.eu/GHSLhowToCite.php
-3. Open-Meteo/ERA5气象：CC BY 4.0，保留数据源与获取记录。
-   https://open-meteo.com/en/docs/historical-weather-api
-4. 官方规划地图派生几何：按来源具体条款登记。逐文件状态见发布清单。
-
-逐文件的来源、许可、坐标系和SHA-256见 release_file_inventory.csv。
+Use the dataset citation in CITATION.cff.
