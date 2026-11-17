@@ -1,6 +1,6 @@
 cff-version: 1.2.0
-message: "Please cite this parameter table when using RIETS."
-title: "Regional Integrated Energy Test System (RIETS): System Parameters"
+message: "Please cite the version of the parameter tables used in your work."
+title: "Regional Integrated Energy Test System (RIETS): Compact Benchmark Parameters"
 type: dataset
 authors:
   - family-names: Li
@@ -9,6 +9,9 @@ authors:
     given-names: Yue
   - family-names: Guo
     given-names: Qinglai
-date-released: 2026-10-16
-url: "https://github.com/lltscu/regional-energy-benchmark"
-license: CC-BY-4.0
+version: 2026.11-compact
+date-released: 2026-11-17
+url: "https://github.com/lltscu/regional-energy-benchmark/releases/tag/v2026.11-compact"
+repository-code: "https://github.com/lltscu/regional-energy-benchmark"
+license: "CC-BY-4.0 AND ODbL-1.0"
+abstract: "Anonymous parameter tables for a geographically constrained synthetic electricity-gas-cooling benchmark. Component-specific source attribution and reuse terms are described in LICENSE_DATA.txt and SOURCES.md."
